@@ -19,11 +19,11 @@ Apenas uma instalação padrão do Python 3 é necessária. A biblioteca `sqlite
 
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/Leturnos/uninter-python-symptom-checker-sqlite.git
+    git clone https://github.com/Leturnos/uninter-python-symptom-checker.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd uninter-python-symptom-checker-sqlite
+    cd uninter-python-symptom-checker
     ```
 3.  Execute o script Python:
     ```bash
